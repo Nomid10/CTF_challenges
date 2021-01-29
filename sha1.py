@@ -1,3 +1,5 @@
+# Challenge from HackerDom training 
+
 import hashlib
 import itertools
 import string
